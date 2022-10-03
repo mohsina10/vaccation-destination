@@ -1,0 +1,1 @@
+mongodb+srv://db:asn@7829@test.xtmowdy.mongodb.net/?retryWrites=true&w=majority
